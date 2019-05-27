@@ -8,11 +8,6 @@
 #include <cstdint>
 #include "tile.hh"
 
-// FIXME type definition, replace int by what you think is best
-// Threshold 0
-//template <class T>
-//using Tile = int;
-
 template <class T>
 class Tetravex
 {
